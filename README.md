@@ -1,1 +1,1 @@
-# Spam-mail-prediction-using-Logistic-Regression
+# Spam-Mail-Prediction-using-Logistic-Regression
